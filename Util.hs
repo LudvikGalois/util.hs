@@ -1,4 +1,3 @@
-{-# LANGUAGE Safe #-}
 module Util where
 
 import Control.Applicative

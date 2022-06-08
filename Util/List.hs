@@ -1,5 +1,4 @@
 {-# LANGUAGE ViewPatterns #-}
-{-# LANGUAGE Safe #-}
 module Util.List where
 
 import Control.Category (Category (..))

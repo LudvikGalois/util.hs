@@ -1,4 +1,3 @@
-{-# LANGUAGE Safe #-}
 module Util.Bits where
 
 import Control.Applicative
